@@ -13,5 +13,6 @@ int main()
 	(a > 10) || (a < 10) ? (a % 10) : (a / 1);
 	cout << a;
 	
+	cout << "siiiiiiiiuuu";
 
 }
