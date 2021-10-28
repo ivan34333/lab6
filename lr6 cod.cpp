@@ -13,6 +13,8 @@ int main()
 	(a > 10) || (a < 10) ? (a % 10) : (a / 1);
 	cout << a;
 	
+	cout << "Mucho gracies, oficiol, para de sotrosh";
 	cout << "siiiiiiiiuuu";
+	
 
 }
