@@ -15,6 +15,10 @@ int main()
 	
 	cout << "Mucho gracies, oficiol, para de sotrosh";
 	cout << "siiiiiiiiuuu";
+
+	int k;
+	k = a / 2;
+	cout << k << endl;
 	
 
 }
